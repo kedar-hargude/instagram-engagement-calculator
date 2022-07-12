@@ -3,10 +3,10 @@
 Link to webapp: [Click here](https://insta-engagement-calc-kedar.netlify.app/)
 
 ### Actual page:
-![Alt text](/public/images/screenshot.png?raw=true "Optional Title"
+![Alt text](/public/images/screenshot.png?raw=true "Optional Title")
 
 ### Error page:
-![Alt text](/public/images/errorPage.png?raw=true "Optional Title"
+![Alt text](/public/images/errorPage.png?raw=true "Optional Title")
 
 After downloading the project, inside the project folder, run:
 
